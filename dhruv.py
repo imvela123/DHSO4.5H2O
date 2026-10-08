@@ -5,3 +5,4 @@ if x == "dhruv":
 else:
   print("fuck u, my pookie dhruv is a 100 times better than u")
   
+# UHG WHY AM I NOT STRAIGHT?
